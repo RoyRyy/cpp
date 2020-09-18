@@ -5,6 +5,7 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
+    cout<<"          vector exercise"<<endl;
     cout << "vector from initializer list: " << endl;
     vector<int> vi1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     vi1.resize(15);
